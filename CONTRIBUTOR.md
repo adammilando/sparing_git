@@ -1,12 +1,9 @@
 # Contributor
 
 1. Hayi Nukman
-Mataram, Indonesia.
+   Mataram, Indonesia.
 
 ## TODO
 
-```
-Tambahkan nama dan kota kalian di bawah ini.
-```
-
----
+2. Robby Hudiansyah
+   Ampenan, United Kingdom
